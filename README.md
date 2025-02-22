@@ -1,24 +1,22 @@
-# Saitama 
-# Teach - Web Project
+# Saitama Project
 
-## Project URL
-[Live Demo or Repository](https://github.com/liix999/Saitama)
+## 🔗 Project URL  
+[View the Live Project](https://github.com/liix999/Saitama/blob/main/teach.html)
 
-## Description
-Teach is a simple web page that features a navigation bar, sections with text and images, and a footer. The page is styled using an external CSS file (`teachstyle.css`).
+## 📌 GitHub Repository  
+[GitHub Repo](https://github.com/liix999/Saitama)
 
-## Features
-- Responsive navigation bar with links.
-- Two sections with text content.
-- Image gallery with multiple images.
-- A footer with a brief description.
+## 📊 Project Board  
+[GitHub Project Board](https://github.com/users/liix999/projects/6)
 
-## How to Use
-### Online (If Hosted)
-Visit the live demo link above.
+## 📖 Description  
+This project is a simple webpage featuring images, text, and a navigation bar.
 
-### Locally
+## 🚀 How to Use  
 1. Clone the repository:  
-   ```HTTPS
-https://github.com/liix999/Saitama.git
+   ```sh
+   git clone https://github.com/liix999/Saitama.git
 
+🛠️ Technologies Used
+HTML
+CSS

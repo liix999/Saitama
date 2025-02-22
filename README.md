@@ -2,7 +2,7 @@
 # Teach - Web Project
 
 ## Project URL
-[Live Demo or Repository](https://your-project-url.com)
+[Live Demo or Repository](https://github.com/liix999/Saitama)
 
 ## Description
 Teach is a simple web page that features a navigation bar, sections with text and images, and a footer. The page is styled using an external CSS file (`teachstyle.css`).

@@ -20,5 +20,5 @@ Visit the live demo link above.
 ### Locally
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/liix999/your-repo.git
+   git clone https://github.com/liix999/Saitama/your-repo.git
 
